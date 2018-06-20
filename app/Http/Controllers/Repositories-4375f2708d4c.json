@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "repositories-d0a35",
+  "private_key_id": "4375f2708d4ccb04ff545ac9b96f5562db4934de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDawzqfipM+3Ucf\nLTzPp66EfJmkfakM6i+hg2cK3yj8hr22PlUFIkPib4O4//IkVl+1aNq/X/c6AcBu\nEdIKiXKYxEF52n9RA30icRTS1aEHPjhVTK/ycF1mhYwb+2DbEWahew9pWyPh1Zfw\nefmWW2IOVX8HKZO9ms3Y6cYvGNjTV1o+wft1WR7Fu83TjTezQpHWjA9YaPYfqQ5A\nzRInTAiOVq4km+7aKH0Abt6c3T4KA0SwJc0DZ8f/XkektsCnQavphbSRIRPxkkAs\nyUxX2q8xVBK77SEdnino5TkmMBB2D+bdTMZQ8bGYsgnSFDDgNbLu0uoN/mO5OfeJ\nUjfc3wU9AgMBAAECggEADgsARWOQ5jUwLpkp0S6zbj/NYRjL9E9INXcI81K1/9fq\nb7t6m7TCZNPBwet0MM72n9+WQzi21xtrreUo9ZIzMAlRJrBXAe1WaBKYQpyCFMPy\nu88LcGW0KTOjddxiME3ip7UNnTbDi+i5My+xTOya0867M8uAd2hrlGQVW8qdiJtx\nhOBPVAinH77ZzejalN7epiCF3gA5F5IjwTMnmBoTNlo4MhwzQEZWxQYs2R5Q0zA9\nUFqV22ys215QP1GDBMhoVusDOGA+SjM9uqF37qrfXNgNJja2dhYZCxNXGisXjF36\n/DC/JOU0SpuL4sVrewIBpHKiXBRJ/fJdD/EtDqzgwQKBgQDxqu7z7BVkmLLQjklu\nWNSsvp3OoNxTl/ZOQbRFMFg0ukr2g4cEdsXxI6K2QzODLPtRTOznbLLLs1GEN4C2\nAnesyH8JSCy4mnVEpUjCBaJbyhYNPuoeYabZzMepK7PtusXkHuWgSj2svIAqWXOW\nf1NN1CsNro2KC/jFvmwRcdx9DQKBgQDnvItGEe/dcfsU9Mee5WKqrT+cYzRVoILm\nvOWEDLJFl/Wn6NybQMkja46lI0CVOhF5SNGuRkpbhrMnPp0p16Jvn2RfA9xHuCNg\nTmlxi+sqOXUH95LxZ2j5giOi/m2rnkq4MOFBjXeFkkVQsg1UEc8v9B7Ge+EtRYsB\nlHvX7ed88QKBgQDmRfkgpbEQxMuGHD5uDejAnXUjAXZPlPoWQVczokg6HdT2JgfO\nQhqElm8hetEnygHCyyjlr1aC8N/Yu0ZCqAE+u2EJCCPM1yise03jypiVG+99OZi9\n0FC7MfyB/umYuaJ8ptAotvUjlg4NzGRuX+6Rt3w6sjud8aBfU/4HdVYiNQKBgB6t\nkzJ/hWWnhTnM/fBHJby6msU1TORZD3tEXo4QsDkOWPMVnL7g4L/TqVqrRA19Vnrb\n7QZJP+bF+kmjvGKhrVthmoQJmsvT0LsbJlJl14gLezbGy6kxq2/8joMxc4tYtUOV\nFPz8oWoJZyu7ppAOm4MZqklUdQbtQe2/nnWDhTXBAoGBAJCvqGMDZZiD1wValrKe\ncOh4AzuNY2hmle7fhceMQJdMaVK8dX+VxyX5oPiRMtl+91dyTiu7qZD+od/j39pl\ni4ezAVlODz4Xe/RDDI0L3gEI3fsZfUSpGYcN7SV/4EFwA3s6c0+BMi/2GRy0tDk3\nwF/zoi91fsO8JPigkxf3oqR8\n-----END PRIVATE KEY-----\n",
+  "client_email": "hagorepositories@repositories-d0a35.iam.gserviceaccount.com",
+  "client_id": "109398237544146505145",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hagorepositories%40repositories-d0a35.iam.gserviceaccount.com"
+}
